@@ -3,10 +3,10 @@
 Public distribution endpoint for the RMP-managed Chrome extension.
 
 - Extension ID: `cebnafojkpjgodgfpjnmemoefnicoagn`
-- Current version: `0.1.6`
+- Current version: `0.1.7`
 - Update manifest: `updates.xml`
 - Package: `rmp-guardian.crx`
 
-Version 0.1.6 switches Google Classroom Private comments to structural sidebar-card detection, with direct control fallbacks retained.
+Version 0.1.7 hardens Google Classroom Private comments blocking against the current assignment UI.
 
 The CRX private signing key is not stored in this repository.
